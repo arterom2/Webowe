@@ -1,3 +1,5 @@
+import './App.css'
+
 import { useState } from 'react'
 import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
@@ -9,6 +11,7 @@ import Gallery from './components/Gallery.jsx'
 import Footer from './components/Footer.jsx'
 import AddPhotoModal from './components/AddPhotoModal.jsx'
 import FiltersOffcanvas from './components/FiltersOffcanvas'
+
 
 function App() {
 
