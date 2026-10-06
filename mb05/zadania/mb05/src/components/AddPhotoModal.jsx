@@ -69,6 +69,14 @@ function AddPhotoModal(){
                         </form>
                         {/* strona 15 */}
                     </div>
+                    <div className="modal-footer">
+                        <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">
+                            Anuluj
+                        </button>
+                        <button type="submit" className="btn btn-priamry">
+                            Zapisz
+                        </button>
+                    </div>
                 </div>
             </div>
         </div>
